@@ -8,8 +8,8 @@
   "version": "0.1.0",
   "main": "./index.js",
   "dependencies": { 
-    "node-curl": "*" 
-  }
+    "urllib": "*" 
+  },
   "scripts": {
     "blanket": {
       "pattern": "passkit-sdk.js"
