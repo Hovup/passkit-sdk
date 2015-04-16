@@ -50,4 +50,4 @@ In order to integrate the SDK into your node.js project follow the next steps:
 
 About
 =====
-Created at The Hover Cloud Programming Engine Inc. 
+Created in The Hover Cloud Programming Engine Inc. 
