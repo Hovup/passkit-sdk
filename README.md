@@ -1,2 +1,2 @@
 # passkit-sdk
-PassKIT SDK for Node JS
+PassKIT SDK for NodeJS
