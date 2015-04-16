@@ -10,7 +10,7 @@ SDK Integration
 
 In order to integrate the SDK into your node.js project follow the next steps:
 
-* Install node-curl dependencie into your system.
+* Install node-curl dependency into your system.
 
 * Add dependency 'passkit-sdk' to your `package.json` file.
 
