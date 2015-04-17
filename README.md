@@ -10,7 +10,15 @@ SDK Integration
 
 In order to integrate the SDK into your node.js project follow the next steps:
 
+<<<<<<< Updated upstream
 * Install urllib dependency into your system.
+=======
+<<<<<<< HEAD
+* Install node-curl dependencie into your system.
+=======
+* Install urllib dependency into your system.
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
 * Add dependency 'passkit-sdk' to your `package.json` file.
 
@@ -50,4 +58,4 @@ In order to integrate the SDK into your node.js project follow the next steps:
 
 About
 =====
-Created in The Hover Cloud Programming Engine Inc. 
+Created at The Hover Cloud Programming Engine Inc. 

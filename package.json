@@ -2,18 +2,26 @@
   "author": "The Hover Cloud Programming Engine Inc.",
   "name": "passkit-sdk",
   "description": "SDK Bindings for Javascript (Node JS)",
-  "repository":{
-    "url":"https://github.com/TheHover/passkit-sdk-js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheHover/passkit-sdk"
   },
-  "version": "0.1.0",
+  "version": "0.1.5",
   "main": "./index.js",
-  "dependencies": { 
-    "urllib": "*" 
+  "dependencies": {
+    "urllib": "*"
   },
-  "scripts": {
-    "blanket": {
-      "pattern": "passkit-sdk.js"
-    }
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/TheHover/passkit-sdk/issues"
   },
-  "readmeFilename": "README.md"
+  "homepage": "https://github.com/TheHover/passkit-sdk",
+  "keywords": [
+    "passkit",
+    "thehover",
+    "sdk"
+  ],
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "man": "README.md"
 }
