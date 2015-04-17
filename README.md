@@ -8,7 +8,7 @@ Welcome to the unofficial PassKIT SDK for Node JS, this SDK is to integrate Pass
 SDK Integration: the easy way:
 
 	```javascript
-		npm install passkit-sdk
+		npm install passkit-sdk	
 	```
 
 SDK Integration 
