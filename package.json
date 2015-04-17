@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/TheHover/passkit-sdk.git"  
   },
-  "version": "0.1.5",
+  "version": "0.1.7",
   "main": "./index.js",
   "dependencies": {
     "urllib": "*"
@@ -21,7 +21,8 @@
     "thehover",
     "sdk"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "readmeFilename": "README.md",
-  "man": "README.md"
+  "man": "README.md",
+  "files": [ "README.md" ]
 }
