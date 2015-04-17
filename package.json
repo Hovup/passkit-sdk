@@ -4,7 +4,7 @@
   "description": "SDK Bindings for Javascript (Node JS)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheHover/passkit-sdk"
+    "url": "https://github.com/TheHover/passkit-sdk.git"  
   },
   "version": "0.1.5",
   "main": "./index.js",
