@@ -5,7 +5,13 @@ PassKIT API Rest SDK for Node JS
 
 Welcome to the unofficial PassKIT SDK for Node JS, this SDK is to integrate PassKIT API into a node js app in an easy and fashion way. 
 
-SDK Integration
+SDK Integration: the easy way:
+
+	```javascript
+		npm install passkit-sdk
+	```
+
+SDK Integration 
 ===============
 
 In order to integrate the SDK into your node.js project follow the next steps:
