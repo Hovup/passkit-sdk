@@ -6,12 +6,13 @@
     "type": "git",
     "url": "https://github.com/TheHover/passkit-sdk.git"  
   },
-  "version": "0.1.8",
+  "version": "0.1.9",
   "main": "./index.js",
   "dependencies": {
     "urllib": "*"
   },
   "scripts": {},
+  "directories": { "lib": "./lib" },
   "bugs": {
     "url": "https://github.com/TheHover/passkit-sdk/issues"
   },
@@ -24,5 +25,5 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "man": "README.md",
-  "files": [ "README.md" ]
+  "files": [ "README.md", "index.js", "lib"  ]
 }
